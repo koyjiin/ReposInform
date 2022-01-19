@@ -1,0 +1,15 @@
+C:\Users\cnicl\source\repos\ConsoleAppInform\ConsoleAppInform\bin\Debug\net6.0\ConsoleAppInform.exe
+C:\Users\cnicl\source\repos\ConsoleAppInform\ConsoleAppInform\bin\Debug\net6.0\ConsoleAppInform.deps.json
+C:\Users\cnicl\source\repos\ConsoleAppInform\ConsoleAppInform\bin\Debug\net6.0\ConsoleAppInform.runtimeconfig.json
+C:\Users\cnicl\source\repos\ConsoleAppInform\ConsoleAppInform\bin\Debug\net6.0\ConsoleAppInform.dll
+C:\Users\cnicl\source\repos\ConsoleAppInform\ConsoleAppInform\bin\Debug\net6.0\ref\ConsoleAppInform.dll
+C:\Users\cnicl\source\repos\ConsoleAppInform\ConsoleAppInform\bin\Debug\net6.0\ConsoleAppInform.pdb
+C:\Users\cnicl\source\repos\ConsoleAppInform\ConsoleAppInform\obj\Debug\net6.0\ConsoleAppInform.csproj.AssemblyReference.cache
+C:\Users\cnicl\source\repos\ConsoleAppInform\ConsoleAppInform\obj\Debug\net6.0\ConsoleAppInform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnicl\source\repos\ConsoleAppInform\ConsoleAppInform\obj\Debug\net6.0\ConsoleAppInform.AssemblyInfoInputs.cache
+C:\Users\cnicl\source\repos\ConsoleAppInform\ConsoleAppInform\obj\Debug\net6.0\ConsoleAppInform.AssemblyInfo.cs
+C:\Users\cnicl\source\repos\ConsoleAppInform\ConsoleAppInform\obj\Debug\net6.0\ConsoleAppInform.csproj.CoreCompileInputs.cache
+C:\Users\cnicl\source\repos\ConsoleAppInform\ConsoleAppInform\obj\Debug\net6.0\ConsoleAppInform.dll
+C:\Users\cnicl\source\repos\ConsoleAppInform\ConsoleAppInform\obj\Debug\net6.0\ref\ConsoleAppInform.dll
+C:\Users\cnicl\source\repos\ConsoleAppInform\ConsoleAppInform\obj\Debug\net6.0\ConsoleAppInform.pdb
+C:\Users\cnicl\source\repos\ConsoleAppInform\ConsoleAppInform\obj\Debug\net6.0\ConsoleAppInform.genruntimeconfig.cache

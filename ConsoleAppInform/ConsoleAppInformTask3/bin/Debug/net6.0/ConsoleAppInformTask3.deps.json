@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleAppInformTask3/1.0.0": {
+        "runtime": {
+          "ConsoleAppInformTask3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppInformTask3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
